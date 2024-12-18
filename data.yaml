@@ -1,0 +1,6 @@
+path: C:/Users/User/Desktop/carsharing
+train: datasets/train/images
+val: datasets/train/images
+
+nc: 10
+names: ['Categories', 'DateOfBirth', 'DateFrom', 'DateTo', 'IIN', 'LicenseNumber', 'Name', 'Organization', 'Photo', 'Surname']

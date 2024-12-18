@@ -1,0 +1,6 @@
+opencv-python
+pytesseract
+Pillow
+ultralytics
+onnx
+onnxruntime

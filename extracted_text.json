@@ -1,0 +1,42 @@
+{
+    "Categories": {
+        "text": "232",
+        "confidence": 0.0
+    },
+    "DateFrom": {
+        "text": "‚ 07.07.2000, BKO/ VKO",
+        "confidence": 0.0
+    },
+    "DateOfBirth": {
+        "text": ").03,08.2018",
+        "confidence": 1.0
+    },
+    "DateTo": {
+        "text": "03.08.2028:",
+        "confidence": 1.0
+    },
+    "IIN": {
+        "text": "",
+        "confidence": 0.0
+    },
+    "LicenseNumber": {
+        "text": "FY Ne 026676",
+        "confidence": 0.0
+    },
+    "Name": {
+        "text": "",
+        "confidence": 0.0
+    },
+    "Organization": {
+        "text": "",
+        "confidence": 0.0
+    },
+    "Photo": {
+        "text": "",
+        "confidence": 1.0
+    },
+    "Surname": {
+        "text": "Komaptos/Zhomartov",
+        "confidence": 0.0
+    }
+}
